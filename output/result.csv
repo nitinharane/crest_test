@@ -233,7 +233,7 @@ id,first_name,last_name,email,job_title,basic_salary,allowances,gross_salary
 30943,Addy,Nuscha,anuscha6f@photobucket.com,Nuclear Power Engineer,4617,250,4867
 30859,Gordie,Grigoletti,ggrigoletti6g@yahoo.com,Administrative Officer,9543,290,9833
 30318,Den,Quenell,dquenell6h@mlb.com,Electrical Engineer,4848,255,5103
-30906,Barry,Karadzas,bkaradzas6i@soup.io,Senior Developer,9540,1459,10999
+30906,Barrry,Karadzas,bkaradzas6i@soup.io,Senior Developer,9540,1459,10999
 30548,Ernst,Baptiste,ebaptiste6j@rakuten.co.jp,Research Associate,7970,377,8347
 30615,Sandi,Colmer,scolmer6k@dropbox.com,Staff Scientist,4744,806,5550
 30517,Aguie,Faire,afaire6l@prlog.org,Marketing Assistant,5471,1059,6530
@@ -19004,7 +19004,7 @@ id,first_name,last_name,email,job_title,basic_salary,allowances,gross_salary
 3,Linn,Carragher,lcarragher2@go.com,Tax Accountant,8656,773,9429
 4,Daven,Stennine,dstennine3@shareasale.com,Senior Developer,6676,594,7270
 5,Valery,Konrad,vkonrad4@elegantthemes.com,Social Worker,7932,502,8434
-6,Randi,Abela,rabela5@prlog.org,Payment Adjustment Coordinator,5190,1744,6934
+6,Randii,Abela,rabela5@prlog.org,Payment Adjustment Coordinator,5190,1744,6934
 7,Chic,Lamswood,clamswood6@lycos.com,Recruiting Manager,3366,221,3587
 8,Reggie,Dudeney,rdudeney7@paginegialle.it,Senior Quality Engineer,9361,615,9976
 9,Korry,Sambedge,ksambedge8@ehow.com,Mechanical Systems Engineer,5153,1646,6799
@@ -46999,4 +46999,4 @@ id,first_name,last_name,email,job_title,basic_salary,allowances,gross_salary
 11840,Arlinda,Bellas,abellasrp@sbwire.com,Payment Adjustment Coordinator,7454,1934,9388
 11501,Deonne,Conkay,dconkayrq@last.fm,Nuclear Power Engineer,4946,279,5225
 11635,Alisander,Bartolijn,abartolijnrr@liveinternet.ru,Research Assistant I,9868,1767,11635
-Second Highest Salary:11975,Average Salary:1231,,,,,,
+Second Highest Salary:11975,Average Salary:1231
