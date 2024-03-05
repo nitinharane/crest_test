@@ -18,9 +18,9 @@ def process_data(data_files):
         result = pd.concat(frames, ignore_index=True)
         result['gross_salary'] = result[['basic_salary', 'allowances']].sum(axis=1)
         result.to_csv(output_file, index=False)
-        high_salary = 'Second Highest Salary:{}'.format(result['gross_salary'].nlargest(2))
-        avg_salary = 'Average Salary:{}'.format(result['gross_salary'].mean())
-        summary = [high_salary, avg_salary]
+        gross_salary = 'Second Highest Salary:{}'.format(result['gross_salary'].nlargest(2).min().astype(int))
+        avg_salary = 'Average Salary:{}'.format(result['gross_salary'].min().astype(int))
+        summary = [gross_salary, avg_salary]
         with open(output_file, 'a', newline='') as f_object:
             writer_object = writer(f_object)
             writer_object.writerow(summary)

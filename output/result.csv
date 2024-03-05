@@ -46999,6 +46999,4 @@ id,first_name,last_name,email,job_title,basic_salary,allowances,gross_salary
 11840,Arlinda,Bellas,abellasrp@sbwire.com,Payment Adjustment Coordinator,7454,1934,9388
 11501,Deonne,Conkay,dconkayrq@last.fm,Nuclear Power Engineer,4946,279,5225
 11635,Alisander,Bartolijn,abartolijnrr@liveinternet.ru,Research Assistant I,9868,1767,11635
-"Second Highest Salary:46633    11988
-44661    11975
-Name: gross_salary, dtype: int64",Average Salary:6603.010170212766
+Second Highest Salary:11975,Average Salary:1231,,,,,,
